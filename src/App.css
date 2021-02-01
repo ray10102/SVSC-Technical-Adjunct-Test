@@ -24,15 +24,11 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.member-photo {
+  height: 10vmin;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.pagination-button {
+  margin-right: 10px;
+  margin-left: 10px;
 }
