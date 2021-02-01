@@ -4,7 +4,6 @@ import Search from './Components/Search';
 import PaginationButtons from './Components/PaginationButtons';
 import { useState, useEffect } from 'react';
 import './App.css';
-import MemberInfo from './Components/MemberInfo';
 
 const itemsPerPage = 30;
 
